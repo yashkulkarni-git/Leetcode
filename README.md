@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashkulkarni-git/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkulkarni-git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashkulkarni-git/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/yashkulkarni-git/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
