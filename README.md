@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yashkulkarni-git/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashkulkarni-git/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashkulkarni-git/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/yashkulkarni-git/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashkulkarni-git/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/yashkulkarni-git/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/yashkulkarni-git/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashkulkarni-git/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashkulkarni-git/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
